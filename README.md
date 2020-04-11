@@ -1,5 +1,5 @@
 # Previous versions of Voraldo.
-
+Voraldo is a group of projects which has generally focused on the generation and viewing of voxel models. Here is a listing of what each version does - some subdirectories have further explanations on specifics.
 
 ## v0.1
 
